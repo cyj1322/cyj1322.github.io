@@ -27,7 +27,7 @@ urls:
 author_logo: profile.png
 author: Jerry Cho
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_email: "cyj1322@outlook.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
